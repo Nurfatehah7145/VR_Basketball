@@ -1,0 +1,11 @@
+Model Information:
+* title:	male_character_Basketball_Player
+* source:	https://sketchfab.com/3d-models/male-character-basketball-player-15d5ce0f9f424c2c88d06233c0420e1f
+* author:	Raj_Kumar_Jadhav (https://sketchfab.com/mynameisRJ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "male_character_Basketball_Player" (https://sketchfab.com/3d-models/male-character-basketball-player-15d5ce0f9f424c2c88d06233c0420e1f) by Raj_Kumar_Jadhav (https://sketchfab.com/mynameisRJ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
